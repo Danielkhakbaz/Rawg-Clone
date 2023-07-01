@@ -3,6 +3,7 @@
 
 # build
 /build
+/dist
 
 # next.js
 /.next/
